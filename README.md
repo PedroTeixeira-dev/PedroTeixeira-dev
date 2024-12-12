@@ -24,7 +24,7 @@
 
 Apaixonado por tecnologia, jogos de tabuleiro e o universo. 
 
-Atualmente estudo desenvolvimento web Full Stack pela EBAC e também cursando pós graduação em engenharia de Software pela PUC-RJ
+Atualmente trabalho como engenheiro de software trainee na Levty e também curso pós graduação em engenharia de Software pela PUC-RJ
 
 Informações de contato disponíveis no Linkedin
 
